@@ -1,5 +1,3 @@
-# SpotifyTricks
-
 # Spotify Tricks
 
 This is a collections of script, patches and procedures to mod Mobile and Desktop Spotify Applications<br>
